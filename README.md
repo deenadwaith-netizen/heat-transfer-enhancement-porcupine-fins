@@ -62,7 +62,6 @@ Reported results include:
 These results indicate that heat transfer enhancement was achieved, although with increased flow resistance.
 
 ## Files
-- [Project Report](report/heat_transfer_enhancement_report_public_final.pdf)
-
+- [Project Report](heat_transfer_enhancement_report_public_final.pdf)
 ## Notes
 This repository is intended to present the academic project for learning and portfolio purposes.
